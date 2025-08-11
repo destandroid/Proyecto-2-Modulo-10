@@ -1,4 +1,8 @@
 # CNN multitarea para predicción demográfica (UTKFace)
+## Participantes
+- Daniel Sanchez Trujillo
+- Sergio Paucara Saca
+- Felipe Sanchez Saravia
 
 Proyecto de **clasificación multitarea** que estima **edad** (10 rangos), **género** (2) y **raza** (5) a partir de rostros. Incluye EDA, opción de **preprocesamiento facial** (MTCNN + normalización + letterbox) y entrenamiento con **validación cruzada 5-fold**, manteniendo **10% de test** fijo. Implementado en **Google Colab**.
 
