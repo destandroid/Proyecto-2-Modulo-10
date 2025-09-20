@@ -1,0 +1,13 @@
+Requisitos de versiones de librerías
+
+- Python: 3.11.8 (probado)
+- Streamlit: 1.46.1
+- NumPy: 1.26.4
+- OpenCV: 4.11.0
+- TensorFlow: 2.19.0
+- Pandas: 2.3.0
+- Plotly: 6.2.0
+
+
+Con PowerShell o CMD:
+  streamlit run dashboard.py
